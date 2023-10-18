@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-markdown script using python.
+Markdown script using python.
 """
 import sys
 import os.path
